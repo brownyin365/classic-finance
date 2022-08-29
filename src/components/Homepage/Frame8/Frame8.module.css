@@ -1,0 +1,23 @@
+.root {
+  position: absolute;
+  left: 1260px;
+  top: 32px;
+  width: min-content;
+  height: min-content;
+  padding: 13px 30px;
+  outline: solid 1px #ff9700;
+  outline-offset: -1px;
+  border-radius: 10px;
+}
+.buyToken {
+  color: #f1f1f1;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}

@@ -1,0 +1,25 @@
+.root {
+  position: absolute;
+  left: 103px;
+  top: 632px;
+  width: min-content;
+  height: min-content;
+  padding: 13px 30px;
+  border-radius: 10px;
+  background-color: #0003;
+  background-image: linear-gradient(90deg, #ff9700ff 0%, #ffe200ff 100%);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+.startTradingNow {
+  color: #383838;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
